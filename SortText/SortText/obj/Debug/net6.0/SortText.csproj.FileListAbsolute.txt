@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\SortText\SortText\bin\Debug\net6.0\SortText.exe
+C:\Users\User\source\repos\SortText\SortText\bin\Debug\net6.0\SortText.deps.json
+C:\Users\User\source\repos\SortText\SortText\bin\Debug\net6.0\SortText.runtimeconfig.json
+C:\Users\User\source\repos\SortText\SortText\bin\Debug\net6.0\SortText.dll
+C:\Users\User\source\repos\SortText\SortText\bin\Debug\net6.0\SortText.pdb
+C:\Users\User\source\repos\SortText\SortText\obj\Debug\net6.0\SortText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SortText\SortText\obj\Debug\net6.0\SortText.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SortText\SortText\obj\Debug\net6.0\SortText.AssemblyInfo.cs
+C:\Users\User\source\repos\SortText\SortText\obj\Debug\net6.0\SortText.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SortText\SortText\obj\Debug\net6.0\SortText.dll
+C:\Users\User\source\repos\SortText\SortText\obj\Debug\net6.0\refint\SortText.dll
+C:\Users\User\source\repos\SortText\SortText\obj\Debug\net6.0\SortText.pdb
+C:\Users\User\source\repos\SortText\SortText\obj\Debug\net6.0\SortText.genruntimeconfig.cache
+C:\Users\User\source\repos\SortText\SortText\obj\Debug\net6.0\ref\SortText.dll
